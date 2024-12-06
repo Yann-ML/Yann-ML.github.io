@@ -1,0 +1,16 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #f9f8f8
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+color: #e49b9b
+}
+
+body {
+background-color: #1b1919;
+}
